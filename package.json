@@ -1,0 +1,24 @@
+{
+  "name": "crawler-chupador",
+  "version": "1.0.0",
+  "description": "Repô básico pra aprender a usar crawler/bots etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiomirandaa/crawler-chupador.git"
+  },
+  "author": "Fábio Miranda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabiomirandaa/crawler-chupador/issues"
+  },
+  "homepage": "https://github.com/fabiomirandaa/crawler-chupador#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.15.2",
+    "request": "^2.81.0"
+  }
+}
